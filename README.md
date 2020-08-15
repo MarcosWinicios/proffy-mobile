@@ -2,7 +2,7 @@
 
 ## Projeto desenvolvido durante a Next Level Week II.
 
-Next Level Week é um evento gratuito realizado pela [RocketSeat](https://rocketseat.com.br/), onde tem como objetivo ensinar utilizar uma stack JavaScript desenvolvendo um projeto real no período de cinco dias.
+Next Level Week é um evento gratuito realizado pela [RocketSeat](https://rocketseat.com.br/), onde tem como objetivo ensinar a utilizar uma stack JavaScript desenvolvendo um projeto real no período de cinco dias.
 
 * Proffy(professor), trata-se de uma plataforma que possibilita alunos a encontrarem professores de diversos conteúdos, de forma rápida e prática.
 * Neste repositório está apenasa **parte miblie da aplicação**, desenvolvido com React Native, utilizando TypeScript.
@@ -22,7 +22,7 @@ Next Level Week é um evento gratuito realizado pela [RocketSeat](https://rocket
 
 1. Clone o repositório em algum diretório
 ```sh
-  git clone git@github.com:MarcosWinicios/proffy-web.git
+  git clone git@github.com:MarcosWinicios/proffy-mobile.git
 ```
 1. Instale todas as dependências
 ```sh
@@ -32,19 +32,19 @@ Next Level Week é um evento gratuito realizado pela [RocketSeat](https://rocket
 ```sh
   yarn start
 ```
+1. Caprture o QRCode com seu celular para vizualizar o resultado
 
 ## Telas
 
-- **Home**
-![](screens/landing-page.png)
+![](screens/home.png)
 
-- **Cadastro de professores**
-![](screens/form-cadastro.png)
+![](screens/dar-aulas.png)
 
-- **Listagem de professores**
+![](screens/estudar.png)
+
 ![](screens/lista-professores.png)
 
-- **Sem resultados**
-![](screens/sem-resultados.png)
+![](screens/favoritar.png)
 
+![](screens/excluir-favorito.png)
 
