@@ -16,7 +16,7 @@ Next Level Week é um evento gratuito realizado pela [RocketSeat](https://rocket
 * **[Repositório da parte Web](https://github.com/MarcosWinicios/proffy-web)**
 
 ## Como testar em sua máquina
-- **Antes de seguir os seguintes passos, você precisa ter instalado em sua máquina, o [Node JS](https://nodejs.org/en/), o  gerenciador de pacotes [Yarn](https://classic.yarnpkg.com/pt-BR/docs/install/#debian-stable)** e o [expo-cli](https://docs.expo.io/get-started/installation/)
+- **Antes de seguir os seguintes passos, você precisa ter instalado em sua máquina, o [Node JS](https://nodejs.org/en/), o  gerenciador de pacotes [Yarn](https://classic.yarnpkg.com/pt-BR/docs/install/#debian-stable)** e o **[expo-cli](https://docs.expo.io/get-started/installation/)**
 
 - **Para obter resultados com dados, utilize a [API](https://github.com/MarcosWinicios/proffy-server) que serve dados para este projeto.**
 
